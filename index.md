@@ -6,16 +6,16 @@ I might've worked on something you're interested in - look around!
 
 ---
 
-###### RuneScape
+### RuneScape
 
 - [Dusk](https://github.com/dusk-rs)
 - [RedRune](https://github.com/Tyluur/RedRune-667)
 
-#### University
+### University
 
 - [kt-wff-parser](https://github.com/Tyluur/kt-wff-parser)
 
-#### Software
+### Software
 
 - [tPacker](https://github.com/Tyluur/tPacker)
 - [versionable-jar-launcher](https://github.com/Tyluur/versionable-jar-launcher)

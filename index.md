@@ -2,7 +2,7 @@ Welcome to Tyluur's **personal** blog.
 
 I might've worked on something you're interested in - look around!
 
-# Software
+# Projects
 
 ---
 
@@ -15,7 +15,7 @@ I might've worked on something you're interested in - look around!
 
 - [kt-wff-parser](https://github.com/Tyluur/kt-wff-parser)
 
-#### Miscellaneous
+#### Software
 
 - [tPacker](https://github.com/Tyluur/tPacker)
 - [versionable-jar-launcher](https://github.com/Tyluur/versionable-jar-launcher)

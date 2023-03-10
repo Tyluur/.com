@@ -1,6 +1,6 @@
 title: Tyluur
 google_analytics:
 
-remote_theme: pages-themes/minima@v2.5.1
+remote_theme: pages-themes/minima
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one

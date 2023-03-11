@@ -1,6 +1,6 @@
-Welcome to Tyluur's **personal** blog. 
+Welcome to my **personal** blog. 
 
-I might've worked on something you're interested in - look around!
+I might've worked on something you're interested in, so look around!
 
 # Projects
 

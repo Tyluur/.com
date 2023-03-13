@@ -19,3 +19,4 @@ I might've worked on something you're interested in, so look around!
 
 - [Dusk](https://github.com/dusk-rs)
 - [RedRune](https://github.com/Tyluur/RedRune-667)
+- [Lotica](https://github.com/Tyluur/Lotica)

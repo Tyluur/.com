@@ -22,3 +22,5 @@ I might've worked on something you're interested in, so look around!
 - [Lotica](https://github.com/Tyluur/Lotica)
 
 ### Miscellaneous
+
+- [kt-file.io-api](https://github.com/Tyluur/kt-file.io-api)

@@ -19,7 +19,7 @@ I might've worked on something you're interested in, so look around!
 
 - [kt-file.io-api](https://github.com/Tyluur/kt-file.io-api)
 - [kt-outstream-logger](https://github.com/Tyluur/kt-outstream-logger)
-- 
+
 ### RuneScape
 
 - [Dusk](https://github.com/dusk-rs)

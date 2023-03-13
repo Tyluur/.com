@@ -24,3 +24,4 @@ I might've worked on something you're interested in, so look around!
 ### Miscellaneous
 
 - [kt-file.io-api](https://github.com/Tyluur/kt-file.io-api)
+- [kt-outstream-logger](https://github.com/Tyluur/kt-outstream-logger)

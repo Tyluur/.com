@@ -16,7 +16,6 @@ Feel free to join the community **[Discord](https://discord.gg/3TP9yWnDnt)** ser
 
 - [kt-wff-parser](https://github.com/Tyluur/kt-wff-parser)
 
-
 ##### RuneScape
 
 - [Dusk](https://github.com/dusk-rs)
@@ -27,7 +26,7 @@ Feel free to join the community **[Discord](https://discord.gg/3TP9yWnDnt)** ser
 ##### Software
 
 - [tPacker](https://github.com/Tyluur/tPacker)
-- [versionable-jar-launcher](https://github.com/Tyluur/versionable-jar-launcher)
+- [versionable-jar-launcher](https://github.com/bridge-io/versionable-jar-launcher)
 
 ##### APIs
 

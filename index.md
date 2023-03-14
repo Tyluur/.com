@@ -31,5 +31,5 @@ Feel free to join the community **[Discord](https://discord.gg/3TP9yWnDnt)** ser
 
 ##### APIs
 
-- [kt-file.io-api](https://github.com/Tyluur/kt-file.io-api)
+- [kt-file.io](https://github.com/Tyluur/kt-file.io)
 - [kt-outstream-logger](https://github.com/Tyluur/kt-outstream-logger)

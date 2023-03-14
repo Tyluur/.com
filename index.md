@@ -1,15 +1,16 @@
 Welcome to my **personal** blog. 
 
+# Projects
+
 I might've worked on something you're interested in, so look around!
 
-# Projects
+Feel free to join the community **[Discord](https://discord.gg/3TP9yWnDnt)** server to stay up-to-date with my progress.
 
 ---
 
-### Bridge-IO
+### [Bridge-IO](https://discord.gg/3TP9yWnDnt)
 
 - [GitHub](https://github.com/company/bridge-io)
-- [Discord](https://discord.gg/3TP9yWnDnt)
 
 ### University
 

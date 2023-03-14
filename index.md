@@ -6,6 +6,11 @@ I might've worked on something you're interested in, so look around!
 
 ---
 
+### Bridge-IO
+
+- [GitHub](https://github.com/company/bridge-io)
+- [Discord](https://discord.gg/3TP9yWnDnt)
+
 ### University
 
 - [kt-wff-parser](https://github.com/Tyluur/kt-wff-parser)

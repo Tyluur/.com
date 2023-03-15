@@ -1,5 +1,7 @@
 **Welcome** to my website.
 
+I am a [computer programmer](https://github.com/tyluur) & [audio engineer](https://twitter.com/teamvoidinc).
+
 # Projects
 
 I might've worked on something you're interested in, so look around!

@@ -10,26 +10,27 @@ Feel free to join the **[Discord](https://discord.gg/3TP9yWnDnt)** to stay up-to
 
 ### Bridge-IO
 
-- [GitHub](https://github.com/company/bridge-io)
-- [Community](https://discord.gg/3TP9yWnDnt)
+* [GitHub](https://github.com/company/bridge-io)
+* [Community](https://discord.gg/3TP9yWnDnt)
 
 ### University
 
-- [kt-wff-parser](https://github.com/Tyluur/kt-wff-parser)
+* [kt-wff-parser](https://github.com/Tyluur/kt-wff-parser)
 
 ##### RuneScape
 
-- [Dusk](https://github.com/dusk-rs)
-- [RedRune 1.0](https://github.com/Tyluur/RedRune)
-- [Lotica](https://github.com/Tyluur/Lotica)
-- [Novite](https://github.com/Tyluur/Novite)
+* [Dusk](https://github.com/dusk-rs)
+* [RedRune 2.0](https://github.com/Tyluur/RedRune-667) _(unreleased)_
+* [RedRune 1.0](https://github.com/Tyluur/RedRune)
+* [Lotica](https://github.com/Tyluur/Lotica)
+* [Novite](https://github.com/Tyluur/Novite)
 
 ##### Software
 
-- [tPacker](https://github.com/Tyluur/tPacker)
-- [versionable-jar-launcher](https://github.com/bridge-io/versionable-jar-launcher)
+* [tPacker](https://github.com/Tyluur/tPacker)
+* [versionable-jar-launcher](https://github.com/bridge-io/versionable-jar-launcher)
 
 ##### APIs
 
-- [kt-file.io](https://github.com/Tyluur/kt-file.io)
-- [kt-outstream-logger](https://github.com/Tyluur/kt-outstream-logger)
+* [kt-file.io](https://github.com/Tyluur/kt-file.io)
+* [kt-outstream-logger](https://github.com/Tyluur/kt-outstream-logger)

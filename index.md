@@ -1,6 +1,6 @@
 **Welcome** to my website.
 
-I am a company [founder](#bridge-io), [computer programmer](https://github.com/tyluur) & [audio engineer](https://twitter.com/teamvoidinc).
+I am a [founder](#bridge-io), [computer programmer](https://github.com/tyluur) & [audio engineer](https://twitter.com/teamvoidinc).
 
 # Projects
 

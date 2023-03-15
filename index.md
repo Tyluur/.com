@@ -20,7 +20,7 @@ Feel free to join the **[Discord](https://discord.gg/3TP9yWnDnt)** to stay up-to
 ##### RuneScape
 
 - [Dusk](https://github.com/dusk-rs)
-- [RedRune](https://github.com/Tyluur/RedRune-667)
+- [RedRune 1.0](https://github.com/Tyluur/RedRune)
 - [Lotica](https://github.com/Tyluur/Lotica)
 - [Novite](https://github.com/Tyluur/Novite)
 

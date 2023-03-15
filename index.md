@@ -4,8 +4,6 @@ I am a [computer programmer](https://github.com/tyluur) & [audio engineer](https
 
 # Projects
 
-I might've worked on something you're interested in, so look around!
-
 Feel free to join the community **[Discord](https://discord.gg/3TP9yWnDnt)** to stay up-to-date.
 
 ---

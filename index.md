@@ -4,13 +4,14 @@ I am a [computer programmer](https://github.com/tyluur) & [audio engineer](https
 
 # Projects
 
-Feel free to join the community **[Discord](https://discord.gg/3TP9yWnDnt)** to stay up-to-date.
+Feel free to join the **[Discord](https://discord.gg/3TP9yWnDnt)** to stay up-to-date.
 
 ---
 
-### [Bridge-IO](https://discord.gg/3TP9yWnDnt)
+### Bridge-IO
 
 - [GitHub](https://github.com/company/bridge-io)
+- [Community](https://discord.gg/3TP9yWnDnt)
 
 ### University
 

@@ -2,18 +2,18 @@
 
 Welcome to my website - I am a [founder](#bridge-io), [computer programmer](https://github.com/tyluur) & [audio engineer](https://twitter.com/teamvoidinc).
 
-# Projects
+### Projects
 
 Feel free to join the **[Discord](https://discord.gg/3TP9yWnDnt)** to stay up-to-date.
 
 ---
 
-### Bridge-IO
+##### Bridge-IO
 
 * [GitHub](https://github.com/company/bridge-io)
 * [Community](https://discord.gg/3TP9yWnDnt)
 
-### University
+##### University
 
 * [kt-wff-parser](https://github.com/Tyluur/kt-wff-parser)
 

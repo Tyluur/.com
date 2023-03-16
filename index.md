@@ -1,8 +1,6 @@
-**Welcome** to my website.
+# About
 
-I am a [founder](#bridge-io), [computer programmer](https://github.com/tyluur) & [audio engineer](https://twitter.com/teamvoidinc).
-
-Contact: [tyluur@bridge-io.ca](mailto:tyluur@bridge-io.ca)
+Welcome to my website - I am a [founder](#bridge-io), [computer programmer](https://github.com/tyluur) & [audio engineer](https://twitter.com/teamvoidinc).
 
 # Projects
 

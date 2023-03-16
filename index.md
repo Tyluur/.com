@@ -2,6 +2,8 @@
 
 I am a [founder](#bridge-io), [computer programmer](https://github.com/tyluur) & [audio engineer](https://twitter.com/teamvoidinc).
 
+Contact: [tyluur@bridge-io.ca](mailto:tyluur@bridge-io.ca)
+
 # Projects
 
 Feel free to join the **[Discord](https://discord.gg/3TP9yWnDnt)** to stay up-to-date.

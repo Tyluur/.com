@@ -19,16 +19,14 @@
 <body>
 <header>
     <div class="inner">
-        <center>
-            <a href="{{ '/' | absolute_url }}">
-                <h1>{{ site.title | default: site.github.repository_name }}</h1>
-            </a>
-            <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <a href="{{ '/' | absolute_url }}">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
-            {% if site.github.is_project_page %}
-            <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
-            {% endif %}
-        </center>
+        {% if site.github.is_project_page %}
+        <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
+        {% endif %}
     </div>
 </header>
 
@@ -39,22 +37,24 @@
         </section>
 
         <aside id="sidebar">
-            {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="button">
-                <small>Download</small>
-                .zip file
-            </a>
-            <a href="{{ site.github.tar_url }}" class="button">
-                <small>Download</small>
-                .tar.gz file
-            </a>
-            {% endif %}
+            <center>
+                {% if site.show_downloads %}
+                <a href="{{ site.github.zip_url }}" class="button">
+                    <small>Download</small>
+                    .zip file
+                </a>
+                <a href="{{ site.github.tar_url }}" class="button">
+                    <small>Download</small>
+                    .tar.gz file
+                </a>
+                {% endif %}
 
-            {% if site.github.is_project_page %}
-            <p class="repo-owner">Contact: <a href="mailto:tyluur@bridge-io.ca">tyluur@bridge-io.ca</a>.</p>
-            {% endif %}
+                {% if site.github.is_project_page %}
+                <p class="repo-owner">Contact: <a href="mailto:tyluur@bridge-io.ca">tyluur@bridge-io.ca</a>.</p>
+                {% endif %}
 
-            <p>This page is integrated with GitHub <a href="https://pages.github.com">Pages</a> & <a href="https://github.com/features/actions">Actions</a>.</p>
+                <p>This page is integrated with GitHub <a href="https://pages.github.com">Pages</a> & <a href="https://github.com/features/actions">Actions</a>.</p>
+            </center>    
         </aside>
     </div>
 </div>

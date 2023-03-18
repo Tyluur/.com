@@ -37,4 +37,4 @@ Feel free to join the **[Discord](https://discord.gg/3TP9yWnDnt)** to stay up-to
 
 ---
 
-This page is integrated with GitHub [Pages](https://pages.github.com) & [Actions](https://github.com/features/actions).
+<sup>This page is integrated with GitHub [Pages](https://pages.github.com) & [Actions](https://github.com/features/actions)</sup>

@@ -1,20 +1,21 @@
 # About
 
-Welcome to my website - I am a [founder](#bridge-io), [computer programmer](https://github.com/tyluur) & [audio engineer](https://teamvoid.world).
+Welcome to my website - I am a [founder](https://tyluur.com/#bridge-io), [computer programmer](https://github.com/tyluur), [male model](https://tyluur.com), & [audio engineer](https://teamvoid.world).
 
 ### Projects
 
 
 ---
 
+##### APIs
+
+* [kt-file.io](https://github.com/Tyluur/kt-file.io)
+* [kt-outstream-logger](https://github.com/Tyluur/kt-outstream-logger)
+
 ##### Bridge-IO <sup>(**[Discord](https://discord.gg/3TP9yWnDnt)**)</sup>
 
 * [bridge-compressor](https://github.com/bridge-io/bridge-compressor)
 * [versionable-jar-launcher](https://github.com/bridge-io/versionable-jar-launcher)
-
-##### University
-
-* [kt-wff-parser](https://github.com/Tyluur/kt-wff-parser)
 
 ##### RuneScape
 
@@ -24,10 +25,10 @@ Welcome to my website - I am a [founder](#bridge-io), [computer programmer](http
 * [Lotica](https://github.com/Tyluur/Lotica)
 * [Novite](https://github.com/Tyluur/Novite)
 
-##### APIs
 
-* [kt-file.io](https://github.com/Tyluur/kt-file.io)
-* [kt-outstream-logger](https://github.com/Tyluur/kt-outstream-logger)
+##### University
+
+* [kt-wff-parser](https://github.com/Tyluur/kt-wff-parser)
 
 ---
 

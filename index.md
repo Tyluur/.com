@@ -1,9 +1,8 @@
 # About
 
-Welcome to my website - I am a [founder](https://tyluur.com/#bridge-io), [computer programmer](https://github.com/tyluur), [male model](https://tyluur.com), & [audio engineer](https://teamvoid.world).
+Welcome to my website - I am an [audio engineer](https://teamvoid.world), [computer programmer](https://github.com/tyluur), & [male model](https://twitter.com/whostyluur).
 
 ### Projects
-
 
 ---
 

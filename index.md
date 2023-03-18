@@ -4,13 +4,13 @@ Welcome to my website - I am a [founder](#bridge-io), [computer programmer](http
 
 ### Projects
 
-Feel free to join the **[Discord](https://discord.gg/3TP9yWnDnt)** to stay up-to-date.
 
 ---
 
-##### Bridge-IO
+##### Bridge-IO <sup>(**[Discord](https://discord.gg/3TP9yWnDnt)**)</sup>
 
-* [GitHub](https://github.com/company/bridge-io)
+* [bridge-compressor](https://github.com/bridge-io/bridge-compressor)
+* [versionable-jar-launcher](https://github.com/bridge-io/versionable-jar-launcher)
 
 ##### University
 
@@ -19,15 +19,10 @@ Feel free to join the **[Discord](https://discord.gg/3TP9yWnDnt)** to stay up-to
 ##### RuneScape
 
 * [Dusk](https://github.com/dusk-rs)
-* [RedRune 2.0](https://github.com/Tyluur/RedRune-667) _(unreleased)_
+* [RedRune 2.0](https://github.com/Tyluur/RedRune-667)<sup><sub>(unreleased)</sub></sup>
 * [RedRune 1.0](https://github.com/Tyluur/RedRune)
 * [Lotica](https://github.com/Tyluur/Lotica)
 * [Novite](https://github.com/Tyluur/Novite)
-
-##### Software
-
-* [tPacker](https://github.com/Tyluur/tPacker)
-* [versionable-jar-launcher](https://github.com/bridge-io/versionable-jar-launcher)
 
 ##### APIs
 

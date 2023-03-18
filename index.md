@@ -1,6 +1,6 @@
 # About
 
-Welcome to my website - I am a [founder](#bridge-io), [computer programmer](https://github.com/tyluur) & [songwriter](https://teamvoid.world)/[audio engineer](https://teamvoid.world).
+Welcome to my website - I am a [founder](#bridge-io), [computer programmer](https://github.com/tyluur) & [audio engineer](https://teamvoid.world).
 
 ### Projects
 

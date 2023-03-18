@@ -31,4 +31,4 @@ Welcome to my website - I am a [founder](#bridge-io), [computer programmer](http
 
 ---
 
-<sup>This page is integrated with GitHub [Pages](https://pages.github.com) & [Actions](https://github.com/features/actions)</sup>
+<sup>This page is integrated with GitHub [Actions](https://github.com/features/actions) & [Pages](https://pages.github.com)</sup>

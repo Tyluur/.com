@@ -11,7 +11,6 @@ Feel free to join the **[Discord](https://discord.gg/3TP9yWnDnt)** to stay up-to
 ##### Bridge-IO
 
 * [GitHub](https://github.com/company/bridge-io)
-* [Community](https://discord.gg/3TP9yWnDnt)
 
 ##### University
 

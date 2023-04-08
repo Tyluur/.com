@@ -1,6 +1,8 @@
 # About
 
-Welcome to my website - I am an [audio engineer](https://teamvoid.world), [computer programmer](https://github.com/tyluur), & [male model](https://twitter.com/whostyluur).
+Welcome to my website.
+
+I am an [audio engineer](https://teamvoid.world), [computer programmer](https://github.com/tyluur), & [male model](https://twitter.com/whostyluur).
 
 ### Projects
 
@@ -30,5 +32,11 @@ Welcome to my website - I am an [audio engineer](https://teamvoid.world), [compu
 * [kt-wff-parser](https://github.com/Tyluur/kt-wff-parser)
 
 ---
+
+### Technical
+
+##### Builds
+
+* [2019 Ryzen-3600](https://pcpartpicker.com/b/svqp99)
 
 <sup>This page is integrated with GitHub [Actions](https://github.com/features/actions) & [Pages](https://pages.github.com)</sup>

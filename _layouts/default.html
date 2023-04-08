@@ -39,6 +39,7 @@
         <aside id="sidebar">
            <!-- <center> -->
                 {% if site.show_downloads %}
+            
                 <a href="{{ site.github.zip_url }}" class="button">
                     <small>Download</small>
                     .zip file
@@ -48,12 +49,17 @@
                     .tar.gz file
                 </a>
                 {% endif %}
+            
                 <h1>Contact</h1>        
                                         
-                {% if site.github.is_project_page %}             
-                <p>Email: [<a href="mailto:tyluur@teamvoid.world">tyluur@teamvoid.world</a>]</p>            
-                
+                <p>Twitter: [<a href="https://twitter.com/whostyluur">@whostyluur</a>]</p>
+            
+                {% if site.github.is_project_page %}       
+            
+                <p>Email: [<a href="mailto:tyluur@teamvoid.world">tyluur@teamvoid.world</a>]</p>  
+            
                 {% endif %}
+                                        
            <!-- </center> -->
         </aside>
     </div>

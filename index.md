@@ -35,7 +35,7 @@ I am an [audio engineer](https://teamvoid.world), [computer programmer](https://
 
 ### Technical
 
-##### Builds
+##### Hardware
 
 * [2019 Ryzen-3600](https://pcpartpicker.com/b/svqp99)
 

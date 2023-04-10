@@ -21,7 +21,7 @@ I am an [audio engineer](https://teamvoid.world), [computer programmer](https://
 ##### RuneScape
 
 * [Dusk](https://github.com/dusk-rs)
-* [RedRune 2.0](https://github.com/Tyluur/RedRune-667) <sup><sub>(unreleased)</sub></sup>
+* [RedRune 2.0](https://github.com/Tyluur/RedRune-II) <sup><sub>(unreleased)</sub></sup>
 * [RedRune 1.0](https://github.com/Tyluur/RedRune)
 * [Lotica](https://github.com/Tyluur/Lotica)
 * [Novite](https://github.com/Tyluur/Novite)

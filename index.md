@@ -13,7 +13,7 @@ I am an [audio engineer](https://teamvoid.world), [computer programmer](https://
 * [kt-file.io](https://github.com/Tyluur/kt-file.io)
 * [kt-outstream-logger](https://github.com/Tyluur/kt-outstream-logger)
 
-##### Bridge-IO <sup>[**[Discord](https://discord.gg/3TP9yWnDnt)**]</sup>
+##### Bridge-IO
 
 * [bridge-compressor](https://github.com/bridge-io/bridge-compressor)
 * [versionable-jar-launcher](https://github.com/bridge-io/versionable-jar-launcher)

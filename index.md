@@ -36,6 +36,6 @@ I am an [audio engineer](https://teamvoid.world), [computer programmer](https://
 ##### Hardware
 
 * [tRyzen-3600](https://pcpartpicker.com/b/svqp99) <sup><sub>(2019)</sub></sup>
-* [tRyzen-7900X](https://pcpartpicker.com/user/Tyluur/saved/DGsV4D) <sup><sub>(2023)</sub></sup>
+* [tRyzen-7900X](https://pcpartpicker.com/b/n6PV3C) <sup><sub>(2023)</sub></sup>
 
 <sup>This page is integrated with GitHub [Actions](https://github.com/features/actions) & [Pages](https://pages.github.com)</sup>

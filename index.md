@@ -2,7 +2,7 @@
 
 Welcome to my website.
 
-I am a [teamvoid](https://teamvoid.world) [audio engineer](https://soundcloud.com/whostyluur), [computer programmer](https://github.com/tyluur), & [male model](https://twitter.com/whostyluur).
+I am a [void](https://teamvoid.world) [audio engineer](https://soundcloud.com/whostyluur), [computer programmer](https://github.com/tyluur), & [male model](https://twitter.com/whostyluur).
 
 ### Projects
 

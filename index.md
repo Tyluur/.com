@@ -2,7 +2,7 @@
 
 Welcome to my website.
 
-I am an [audio engineer](https://teamvoid.world), [computer programmer](https://github.com/tyluur), & [male model](https://twitter.com/whostyluur).
+I am an [audio engineer](https://twitter.com/whostyluur) & [computer programmer](https://github.com/tyluur).
 
 ### Projects
 
@@ -12,11 +12,6 @@ I am an [audio engineer](https://teamvoid.world), [computer programmer](https://
 
 * [kt-file.io](https://github.com/Tyluur/kt-file.io)
 * [kt-outstream-logger](https://github.com/Tyluur/kt-outstream-logger)
-
-##### Bridge-IO
-
-* [bridge-compressor](https://github.com/bridge-io/bridge-compressor)
-* [versionable-jar-launcher](https://github.com/bridge-io/versionable-jar-launcher)
 
 ##### RuneScape
 

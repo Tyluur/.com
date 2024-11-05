@@ -2,7 +2,7 @@
 
 Welcome to my website.
 
-I'm a Christian [audio engineer](https://twitter.com/whostyluur) & [developer](https://github.com/tyluur).
+I'm an [audio engineer](https://twitter.com/whostyluur), [computer programmer](https://github.com/tyluur), & [reaper](<https://www.esv.org/verses/Galatians+6:7–8>).
 
 ### Projects
 

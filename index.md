@@ -2,7 +2,7 @@
 
 Welcome to my website.
 
-I am an [audio engineer](https://twitter.com/whostyluur) & [computer programmer](https://github.com/tyluur).
+I'm a Christian [audio engineer](https://twitter.com/whostyluur) & [developer](https://github.com/tyluur).
 
 ### Projects
 
